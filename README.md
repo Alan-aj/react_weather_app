@@ -4,7 +4,7 @@ This project was bootstrapped with ReactJs. This weather app site will provide e
 
 ### `Live Site`
 
-Check now: [weather app](https://facebook.github.io/create-react-app/docs/running-tests)
+Check now: [weather app](https://adoring-galileo-65f307.netlify.app)
 
 ### `Languages`
 
@@ -18,7 +18,7 @@ Check now: [weather app](https://facebook.github.io/create-react-app/docs/runnin
 * VS code
 * Chrome
 * Git
-* Heroku
+* Netlify
 * API
 
 
