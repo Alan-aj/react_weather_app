@@ -1,4 +1,4 @@
-# Weather App in ReactJS
+# Weather App with ReactJS
 
 This project was bootstrapped with ReactJs. This weather app site will provide easy and instand weather information. This site fetches all weather details by API and display to the user.
 
