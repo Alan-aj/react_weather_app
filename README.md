@@ -4,7 +4,7 @@ This project was bootstrapped with ReactJs. This weather app site will provide e
 
 ### `Live Site`
 
-Check now: [weather app](https://adoring-galileo-65f307.netlify.app)
+Check now: [weather-app](https://speed-weather.netlify.app)
 
 ### `Languages`
 
